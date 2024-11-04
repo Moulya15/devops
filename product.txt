@@ -1,0 +1,31 @@
+steps for cloning 
+
+srep i: create repository
+
+step ii: creat a folder ( moulya)
+
+step iii : first create a new code thn update it with new code line and it show thw old and updated one( not required)
+
+step iv : to use the github files in vs code, follow the following steps
+
+step1: git config --global user.name "Moulya15"
+
+step2 :  git config --global user.email "ksmoulya2003@gmail.com"
+
+step3: git clone https://github.com/Moulya15/Moulya.git (this is available in code<> )
+
+step 4: cd Moulya
+
+step 5: ls
+
+--> git add filename.txt ( make sure to save the file)
+
+--> git add .
+
+--> git commit -m "first commit"
+
+--> git push origin main
+
+-->finished
+
+--> google meet code: "vus-rebp-zrf"
